@@ -18,6 +18,8 @@
 
   ## Usage
   First, install the necessary dependencies. Then, create a .env file with your "DB_NAME" "DB_USER", and "DB_PW". From there you should be able to run "mysql -u root -p" from the terminal and input your mysql password, then type "source ./db/schema.sql". One the text stops you can type "quit". From there, run "npm run seed" followed by "npm run start" once it's done seeding. Finally, open up Insomnia and explore the different routes available in the api folder.
+  
+[Untitled_ May 1, 2023 4_08 PM.webm](https://user-images.githubusercontent.com/107372103/235523854-6419a629-568c-4e64-b00d-d5804ead8fb4.webm)
 
   ## Contribute
   Email me at the address below.
